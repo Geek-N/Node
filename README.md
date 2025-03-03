@@ -6,9 +6,9 @@
 This is used to generate a README file from the command line
 
 ## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [License](#license)
+1. INSTALLATION
+2. USAGE
+3. LICENSE
 
 ## Installation
 Start by running node inde.js to answer questions that will generate a README file.
@@ -26,7 +26,7 @@ This project is licensed under the MIT License. For more details, see [MIT Licen
 ## Questions
 For more information, contact me at [input](https://github.com/Geek-N/Node.gitinput).
 
-
+##LINK TO VIDEO
 
 ![image](https://github.com/user-attachments/assets/50bf9672-507c-4e67-9673-d20f37164223)
 
